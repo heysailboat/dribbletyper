@@ -65,13 +65,11 @@ Only the hotkey version requires `pynput`, but installing all three packages is 
 
 ---
 
-## Installation
-
-### Releases
+## Installation: Releases (Recommended)
 1. Head over to the [Releases](https://github.com/heysailboat/dribbletyper/releases/latest) page in the right sidebar.
 2. Download your chosen script.
 
-### Cloning
+## Installation: Cloning
 Clone the repository:
 
 ```bash
